@@ -34,7 +34,9 @@ git clone <your-repo-link>
 cd health_ai_project
 pip install -r requirements.txt
 ```
+Author 
 
+Priyal Parmar 
 ---
 
 ## ▶️ Run the App
